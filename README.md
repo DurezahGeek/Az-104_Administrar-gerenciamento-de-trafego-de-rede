@@ -1,6 +1,4 @@
-# Administrar gerenciamento de trafego de rede
-
-# 🌐 Gerenciamento de Tráfego de Rede no Microsoft Azure
+# 🌐 Administrar gerenciamento de trafego de rede
 
 ## 🧠 O que é um Balanceador de Carga?
 
