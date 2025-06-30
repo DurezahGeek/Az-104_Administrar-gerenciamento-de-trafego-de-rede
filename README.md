@@ -1,5 +1,8 @@
 # 🌐 Administrar gerenciamento de trafego de rede
 
+![imagem1](https://github.com/DurezahGeek/Az-104_Administrar-gerenciamento-de-trafego-de-rede/blob/main/srcAGTR/1.png)
+
+---
 ## 🧠 O que é um Balanceador de Carga?
 
 Um **balanceador de carga** distribui o tráfego entre vários servidores para garantir **desempenho, disponibilidade e redundância**.
@@ -83,6 +86,8 @@ Imagine um **porteiro** (balanceador) que direciona **clientes** (requisições)
 📌 Ideal para manter sessões como **login** ou **carrinho de compras**.
 
 ---
+![imagem2](https://github.com/DurezahGeek/Az-104_Administrar-gerenciamento-de-trafego-de-rede/blob/main/srcAGTR/2.png)
+---
 
 ## 🌐 Azure Application Gateway
 
@@ -126,6 +131,14 @@ Balanceador de carga de **camada 7 (Aplicação)** — interpreta **HTTP/HTTPS**
 | Backend Pools  | VMs ou serviços de destino |
 | Health Probes  | Verifica integridade dos backends |
 | WAF (opcional) | Proteção contra ameaças Web |
+
+---
+
+![imagem3](https://github.com/DurezahGeek/Az-104_Administrar-gerenciamento-de-trafego-de-rede/blob/main/srcAGTR/3.png)
+
+---
+
+![imagem4](https://github.com/DurezahGeek/Az-104_Administrar-gerenciamento-de-trafego-de-rede/blob/main/srcAGTR/4.png)
 
 ---
 
